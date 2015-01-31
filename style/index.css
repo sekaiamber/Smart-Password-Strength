@@ -1,0 +1,83 @@
+#ruler 
+{
+	visibility: hidden; 
+	white-space: nowrap; 
+}
+.pwd-prompt-input,
+input[type=password],
+.pwd-prompt-span
+{
+	border: #00B2FF solid 1px;
+	padding: 2px 4px;
+	font-size: 20px;
+	height: 24px;
+	font-family: Courier;
+}
+.pwd-prompt-input,
+input[type=password],
+{
+	width: 300px;
+}
+
+
+/* pwd-prompt */
+.pwd-prompt
+{
+	display: none;
+}
+
+.pwd-prompt-rulur
+{
+	height: 3px;
+	border: #FAD105 solid 1px;
+	border-top-width: 0px;
+	margin-top: 2px;
+}
+.pwd-prompt-text
+{
+	border: #FAD105 solid 1px;
+	border-top-width: 0px;
+	border-bottom-width: 0px;
+	border-right-width: 0px;
+	margin-left: 5px;
+	font-family: '微软雅黑';
+	padding: 10px 0 0 10px;
+}
+.pwd-prompt-span
+{
+	display: none;
+}
+
+/*Prompt Div*/
+.gpd1-1
+{
+	font-weight: bold;
+	color: #00B2FF;
+	font-size: 14px;
+}
+.gpd1-2.lv1,
+.gpd1-2.lv2,
+.gpd1-2.lv3,
+.gpd1-2.lv4,
+.gpd1-2.lv5,
+.gpd1-2.lv6,
+.gpd1-2.lv7,
+.gpd1-2.lv8
+{
+	color: red;
+}
+.gpd1-2.lv9,
+.gpd1-2.lv10
+{
+	color: rgb(255, 194, 0);
+}
+.gpd1-2
+{
+	color: rgb(90, 202, 59);
+}
+.gpd1-3
+{
+	font-size: 14px;
+	font-style: italic;
+	color: #999;
+}
