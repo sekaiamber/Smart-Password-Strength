@@ -2,4 +2,4 @@
 
 # Example
 
-[点击](sekaiamber.github.io/Smart-Password-Strength)
+[点击](http://sekaiamber.github.io/Smart-Password-Strength)
