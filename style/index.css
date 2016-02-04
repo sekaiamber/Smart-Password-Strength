@@ -12,6 +12,7 @@ input[type=password],
 	font-size: 20px;
 	height: 24px;
 	font-family: Courier;
+	outline:none;
 }
 .pwd-prompt-input,
 input[type=password],
